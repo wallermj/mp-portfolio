@@ -123,12 +123,12 @@ font-family: 'Roboto', sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color: #dfc7c1;
+  color: #ffffff;
 font-family: 'Old Standard TT', serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #dfc7c1;
+  color: #000000;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -141,7 +141,7 @@ font-family: 'Old Standard TT', serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #dfc7c1;
+  color: #000000;
 }
 
 @media (min-width: 992px) {
