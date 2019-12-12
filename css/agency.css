@@ -173,7 +173,7 @@ font-family: 'Old Standard TT', serif;
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-color: #dfc7c1;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
